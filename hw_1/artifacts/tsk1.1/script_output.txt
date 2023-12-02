@@ -1,0 +1,26 @@
+run script like this: "python3.9 tsk1.1.py ./artifacts/tsk1.1/1.txt"
+output:
+     1  1
+     2  2
+     3  3
+     4  4
+     5  5
+     6  hello
+     7  1"dfdsfd"
+     8  -_-
+     9  gachimuchi
+     10  тест
+
+run script like this: "python3.9 tsk1.1.py"
+stdin   stdout
+hello
+     1  hello
+world
+     2  world
+it's me
+     3  it's me
+nikita
+     4  nikita
+ITMO
+     5  ITMO
+^C

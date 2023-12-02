@@ -1,0 +1,28 @@
+run linux command like this: nl -b a ./artifacts/tsk1.1/1.txt
+output:
+     1  1
+     2  2
+     3  3
+     4  4
+     5  5
+     6  hello
+     7  1"dfdsfd"
+     8  -_-
+     9  gachimuchi
+    10  тест
+
+run linux command like this: nl -b a
+stdin   stdout
+hello
+     1  hello
+world
+     2  world
+it's me
+     3  it's me
+nikita
+     4  nikita
+ITMO
+     5  ITMO
+^C
+
+
