@@ -1,0 +1,17 @@
+run script like this: "python3.9 ./tsk1.3.py ./artifacts/tsk1.3/1.txt ./artifacts/tsk1.3/2.txt"
+stdout:
+      15      18      85 ./artifacts/tsk1.3/1.txt
+      12      12      69 ./artifacts/tsk1.3/2.txt
+      27      30      154 total
+
+run script like this: "python3.9 ./tsk1.3.py ./artifacts/tsk1.3/1.txt"
+stdout:
+      15      18      85 ./artifacts/tsk1.3/1.txt
+
+run script like this: "python3.9 ./tsk1.3.py"
+stdin:
+1 2 3
+hello world it's me
+stdout:
+      2      7      25
+

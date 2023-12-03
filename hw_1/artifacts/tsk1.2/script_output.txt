@@ -1,5 +1,5 @@
 run script like this: "python3.9 ./tsk1.2.py ./artifacts/tsk1.2/1.txt ./artifacts/tsk1.2/2.txt"
-output:
+stdout:
 ==> ./artifacts/tsk1.2/1.txt <==
 3
 4

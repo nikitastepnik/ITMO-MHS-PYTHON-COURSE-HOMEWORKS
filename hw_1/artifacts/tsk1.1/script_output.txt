@@ -1,5 +1,5 @@
 run script like this: "python3.9 tsk1.1.py ./artifacts/tsk1.1/1.txt"
-output:
+stdout:
      1  1
      2  2
      3  3

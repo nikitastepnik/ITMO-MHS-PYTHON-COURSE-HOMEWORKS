@@ -1,5 +1,5 @@
 run linux command like this: "tail ./artifacts/tsk1.2/1.txt ./artifacts/tsk1.2/2.txt"
-output:
+stdout:
 ==> ./artifacts/tsk1.2/1.txt <==
 3
 4
