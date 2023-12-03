@@ -1,0 +1,51 @@
+run script like this: "python3.9 ./tsk1.2.py ./artifacts/tsk1.2/1.txt ./artifacts/tsk1.2/2.txt"
+output:
+==> ./artifacts/tsk1.2/1.txt <==
+3
+4
+5
+6
+7
+привет
+мир
+это
+я
+где ты?
+==> ./artifacts/tsk1.2/2.txt <==
+fs
+sfd
+fd
+sf
+sdg
+gsg14124
+авыпы
+павып
+а
+апыпы
+
+run script like this: "python3.9 ./tsk1.2.py"
+stdin   stdout
+1
+2
+3
+4
+5   5
+6   6
+7   7
+8   8
+9   9
+10  10
+11  11
+12  12
+13  13
+14  14
+15  15
+16  16
+17  17
+18  18
+19  19
+20  20
+21  21
+^D
+
+

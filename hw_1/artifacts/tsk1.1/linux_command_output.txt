@@ -1,4 +1,4 @@
-run linux command like this: nl -b a ./artifacts/tsk1.1/1.txt
+run linux command like this: "nl -b a ./artifacts/tsk1.1/1.txt"
 output:
      1  1
      2  2
@@ -11,7 +11,7 @@ output:
      9  gachimuchi
     10  тест
 
-run linux command like this: nl -b a
+run linux command like this: "nl -b a"
 stdin   stdout
 hello
      1  hello

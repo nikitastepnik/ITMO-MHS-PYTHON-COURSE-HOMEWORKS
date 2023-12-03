@@ -15,8 +15,9 @@ if __name__ == '__main__':
             for idx, row in enumerate(input_file):
                 print(
                     ''.join(
-                        [' ' * 5, str(idx + 1), ' ' * 2, row.replace('\n', '')]
-                    )
+                        [' ' * 5, str(idx + 1), ' ' * 2, row]
+                    ),
+                    end=''
                 )
     else:
         for idx, row in enumerate(sys.stdin):

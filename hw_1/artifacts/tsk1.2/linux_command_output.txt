@@ -1,0 +1,24 @@
+run linux command like this: "tail ./artifacts/tsk1.2/1.txt ./artifacts/tsk1.2/2.txt"
+output:
+==> ./artifacts/tsk1.2/1.txt <==
+3
+4
+5
+6
+7
+привет
+мир
+это
+я
+где ты?
+==> ./artifacts/tsk1.2/2.txt <==
+fs
+sfd
+fd
+sf
+sdg
+gsg14124
+авыпы
+павып
+а
+апыпы
