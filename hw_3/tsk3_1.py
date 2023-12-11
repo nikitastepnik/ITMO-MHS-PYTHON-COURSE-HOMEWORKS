@@ -55,7 +55,6 @@ class Matrix:
                     element += self.data[i][k] * other.data[k][j]
                 row.append(element)
             result.append(row)
-
         return Matrix(result)
 
 
