@@ -12,7 +12,6 @@ mdurl==0.1.2
 more-itertools==10.1.0
 nh3==0.2.15
 numpy==1.24.4
-pdflatex==0.1.3
 pkginfo==1.9.6
 Pygments==2.17.2
 readme-renderer==42.0
@@ -20,8 +19,10 @@ requests==2.31.0
 requests-toolbelt==1.0.0
 rfc3986==2.0.0
 rich==13.7.0
-TexGeneratorStepanovItmoYandex==1.0.0
+TexGeneratorStepanovItmoYandex==2.0.0
 twine==4.0.2
 typing_extensions==4.9.0
 urllib3==2.1.0
 zipp==3.17.0
+setuptools~=60.2.0
+pdflatex~=0.1.3
